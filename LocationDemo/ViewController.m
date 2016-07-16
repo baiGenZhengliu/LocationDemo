@@ -1,9 +1,9 @@
 //
 //  ViewController.m
-//  LocationDemo
+//  location
 //
-//  Created by leergou on 16/7/11.
-//  Copyright © 2016年 WhiteHouse. All rights reserved.
+//  Created by HuJiazhou on 16/7/12.
+//  Copyright © 2016年 HuJiazhou. All rights reserved.
 //
 
 #import "ViewController.h"
